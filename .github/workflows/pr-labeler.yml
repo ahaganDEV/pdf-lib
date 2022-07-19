@@ -8,8 +8,11 @@ jobs:
   triage:
     runs-on: ubuntu-latest
     steps:
-      - name: Lint
-        run: yarn run lint
+      - uses: actions/checkout@v3
+      - name: Setup node
+        uses: actions/setup-node@v3
+      - name: Install dependencies
+        run: yarn install
       - name: Build
         run: yarn run build
       - name: Test
