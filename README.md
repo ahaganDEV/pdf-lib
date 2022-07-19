@@ -48,6 +48,8 @@
 
 > **Learn more at [pdf-lib.js.org](https://pdf-lib.js.org)**
 
+**NOTE: THIS IS A TEMPORARY FORK of Hopding/pdf-lib and is not maintained**
+
 ## Table of Contents
 
 - [Features](#features)
