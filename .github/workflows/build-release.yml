@@ -59,3 +59,4 @@ jobs:
         with:
           token: ${{ secrets.NPM_TOKEN }}
           access: public
+          tag: v1.17.4
