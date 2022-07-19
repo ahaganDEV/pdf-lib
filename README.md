@@ -48,7 +48,7 @@
 
 > **Learn more at [pdf-lib.js.org](https://pdf-lib.js.org)**
 
-**NOTE: THIS IS A TEMPORARY FORK of Hopding/pdf-lib and is not maintained**
+**NOTE: THIS IS A TEMPORARY FORK of Hopding/pdf-lib and is not maintained. This library will be deprecated once the original library issue has been released**
 
 ## Table of Contents
 
